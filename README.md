@@ -1,8 +1,8 @@
 # EX-21-POINTERS
 
-NAME : YASHWANTH K
+NAME : VIRUMAA HARISH M
 
-REG NO : 212224040369
+REG NO : 212223230246
 
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
